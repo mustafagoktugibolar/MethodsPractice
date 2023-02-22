@@ -4,5 +4,6 @@ public class Test {
         //Fibonacci.find();
         //Calculator.use();s
         //UsHesabi.show(2, 3);
+        //Asal.show();
     }
 }
