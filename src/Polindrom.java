@@ -10,10 +10,10 @@ public class Polindrom {
 
         }
         if(reversedNum == number){
-            System.out.println("It's a Polindromic number");
+            System.out.println(number + "is a Polindromic number");
         }
         else{
-            System.out.println("It's not a Polindromic number!");
+            System.out.println(number + "is not a Polindromic number!");
         }
     }
 }
