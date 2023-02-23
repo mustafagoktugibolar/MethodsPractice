@@ -5,5 +5,6 @@ public class Test {
         //Calculator.use();s
         //UsHesabi.show(2, 3);
         //Asal.show();
+        Desen.show(15); 
     }
 }
