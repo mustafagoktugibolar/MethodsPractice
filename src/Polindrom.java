@@ -16,4 +16,16 @@ public class Polindrom {
             System.out.println(number + "is not a Polindromic number!");
         }
     }
+
+    public static void findText(String text){
+        String reverse = "";
+        for (int i = text.length() - 1; i >= 0; i--) {
+            reverse += text.charAt(i);
+        }
+
+        if (text.equals(reverse))
+            System.out.println("True");
+        else
+            System.out.println("False");
+    }
 }
